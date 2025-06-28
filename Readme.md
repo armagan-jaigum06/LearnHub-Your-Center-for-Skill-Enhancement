@@ -4,6 +4,15 @@ A MERN stack e-learning platform where users can register as students or teacher
 
 ---
 
+## 🎬 Video Preview
+
+For a demonstration of the project, [**click here to watch the video**](https://jaigumk-my.sharepoint.com/:v:/g/personal/armagan_jaigumk_onmicrosoft_com/ETO0_0ezr9ROtbMyNMJEShMBjsgIRS3UJGg8vrqQZGNd_w?e=Ht2Gjc).
+
+> **Note:** GitHub does not support direct video playback for large files.  
+> For the best experience, use the link above to preview the project video.
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
@@ -48,6 +57,7 @@ Learn Hub/
 │   ├── schemas/
 │   ├── config/
 │   ├── middlewares/
+│   ├── uploads/
 │   ├── .env
 │   └── index.js
 │
@@ -62,6 +72,11 @@ Learn Hub/
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   └── index.html
+│
+├── Video Demo/
+│   ├── demoVideo.mkv   # High quality
+│   ├── demoVideo.mp4   # Reduced quality
+│   └── Readme.md
 │
 └── README.md
 ```
